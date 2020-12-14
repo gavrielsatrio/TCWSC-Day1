@@ -1,0 +1,17 @@
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\bin\Debug\Module 2.exe.config
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\bin\Debug\Module 2.exe
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\bin\Debug\Module 2.pdb
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\bin\Debug\EntityFramework.dll
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\bin\Debug\EntityFramework.xml
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module 2.csprojAssemblyReference.cache
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module_2.ApplyScheduleForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module_2.ManageScheduleForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module_2.Properties.Resources.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module_2.ScheduleEditForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module 2.csproj.GenerateResource.cache
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module 2.csproj.CoreCompileInputs.cache
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module 2.csproj.CopyComplete
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module 2.exe
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 2\Module 2\obj\Debug\Module 2.pdb

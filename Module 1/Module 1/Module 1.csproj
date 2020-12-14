@@ -55,24 +55,89 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="AddUserForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="AddUserForm.Designer.cs">
+      <DependentUpon>AddUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminMainForm.Designer.cs">
+      <DependentUpon>AdminMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Country.cs">
+      <DependentUpon>Module1Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CrashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrashForm.Designer.cs">
+      <DependentUpon>CrashForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditRoleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditRoleForm.Designer.cs">
+      <DependentUpon>EditRoleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Module1Model.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Module1Model.Context.tt</DependentUpon>
     </Compile>
+    <Compile Include="Module1Model.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Module1Model.tt</DependentUpon>
+    </Compile>
     <Compile Include="Module1Model.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Module1Model.edmx</DependentUpon>
     </Compile>
+    <Compile Include="Office.cs">
+      <DependentUpon>Module1Model.tt</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Role.cs">
+      <DependentUpon>Module1Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <DependentUpon>Module1Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UserLogin.cs">
+      <DependentUpon>Module1Model.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UserMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserMainForm.Designer.cs">
+      <DependentUpon>UserMainForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddUserForm.resx">
+      <DependentUpon>AddUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminMainForm.resx">
+      <DependentUpon>AdminMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrashForm.resx">
+      <DependentUpon>CrashForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditRoleForm.resx">
+      <DependentUpon>EditRoleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -82,6 +147,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UserMainForm.resx">
+      <DependentUpon>UserMainForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EntityDeploy Include="Module1Model.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Module1Model.Designer.cs</LastGenOutput>
@@ -107,6 +175,12 @@
     <Content Include="Module1Model.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <LastGenOutput>Module1Model.Context.cs</LastGenOutput>
+      <DependentUpon>Module1Model.edmx</DependentUpon>
+    </Content>
+    <Content Include="Module1Model.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Module1Model.edmx</DependentUpon>
+      <LastGenOutput>Module1Model.cs</LastGenOutput>
     </Content>
   </ItemGroup>
   <ItemGroup>

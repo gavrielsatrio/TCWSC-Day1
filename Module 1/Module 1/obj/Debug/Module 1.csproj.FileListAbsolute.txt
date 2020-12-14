@@ -1,0 +1,20 @@
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\bin\Debug\Module 1.exe.config
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\bin\Debug\Module 1.exe
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\bin\Debug\Module 1.pdb
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\bin\Debug\EntityFramework.dll
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\bin\Debug\EntityFramework.xml
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module 1.csprojAssemblyReference.cache
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module_1.AddUserForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module_1.AdminMainForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module_1.CrashForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module_1.EditRoleForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module_1.LoginForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module_1.Properties.Resources.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module_1.UserMainForm.resources
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module 1.csproj.GenerateResource.cache
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module 1.csproj.CoreCompileInputs.cache
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module 1.csproj.CopyComplete
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module 1.exe
+D:\Data Rio\TC (Training Center) WSC 2021 Shanghai\TCWSC-Day1\Module 1\Module 1\obj\Debug\Module 1.pdb
